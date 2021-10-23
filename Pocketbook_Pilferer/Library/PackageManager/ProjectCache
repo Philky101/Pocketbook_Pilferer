@@ -5,172 +5,21 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637706098730475432
-    m_Hash: 446021242
+      ticks: 637706281684455456
+    m_Hash: 1391218218
   m_LockFileStatus:
     m_FilePath: D:/GameJams/GitHub/Pocketbook_Pilferer/Pocketbook_Pilferer/Pocketbook_Pilferer/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637706098730475432
-    m_Hash: 4227831588
+      ticks: 637706281684413952
+    m_Hash: 1593933550
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.2d.animation@5.0.7
-      testable: 0
-      isDirectDependency: 1
-      version: 5.0.7
-      source: 1
-      resolvedPath: D:\GameJams\GitHub\Pocketbook_Pilferer\Pocketbook_Pilferer\Pocketbook_Pilferer\Library\PackageCache\com.unity.2d.animation@5.0.7
-      assetPath: Packages/com.unity.2d.animation
-      name: com.unity.2d.animation
-      displayName: 2D Animation
-      author:
-        name: 
-        email: 
-        url: 
-      category: 2D
-      type: 
-      description: 2D Animation provides all the necessary tooling and runtime components
-        for skeletal animation using Sprites.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 1.0.15-preview.1
-        - 1.0.15-preview.2
-        - 1.0.15-preview.3
-        - 1.0.15-preview.4
-        - 1.0.15-preview.5
-        - 1.0.16-preview
-        - 1.0.16-preview.1
-        - 1.0.16-preview.2
-        - 2.0.0-preview.1
-        - 2.0.0-preview.2
-        - 2.0.0-preview.3
-        - 2.1.0-preview.1
-        - 2.1.0-preview.2
-        - 2.1.0-preview.4
-        - 2.1.0-preview.5
-        - 2.1.0-preview.7
-        - 2.2.0-preview.1
-        - 2.2.0-preview.4
-        - 2.2.0-preview.5
-        - 2.2.1-preview.1
-        - 2.2.1-preview.2
-        - 3.0.2
-        - 3.0.3
-        - 3.0.4
-        - 3.0.5
-        - 3.0.6
-        - 3.0.8
-        - 3.1.0
-        - 3.1.1
-        - 3.2.1
-        - 3.2.2
-        - 3.2.3
-        - 3.2.4
-        - 3.2.5
-        - 3.2.6
-        - 3.2.9
-        - 3.2.10
-        - 3.2.11
-        - 3.2.13
-        - 4.0.0
-        - 4.0.1
-        - 4.1.0
-        - 4.1.1
-        - 4.2.1
-        - 4.2.2
-        - 4.2.3
-        - 4.2.4
-        - 4.2.5
-        - 4.2.6
-        - 4.2.8
-        - 5.0.0
-        - 5.0.1
-        - 5.0.2
-        - 5.0.3
-        - 5.0.4
-        - 5.0.5
-        - 5.0.6
-        - 5.0.7
-        - 5.0.8
-        - 5.0.9
-        - 6.0.0-pre.1
-        - 6.0.0-pre.2
-        - 6.0.1
-        - 6.0.3
-        - 6.0.4
-        - 6.0.5
-        - 6.0.7
-        - 7.0.0-pre.2
-        - 7.0.0-pre.3
-        - 7.0.0
-        - 7.0.1
-        compatible:
-        - 5.0.6
-        - 5.0.7
-        - 5.0.8
-        - 5.0.9
-        verified: 5.0.9
-      dependencies:
-      - name: com.unity.2d.common
-        version: 4.0.3
-      - name: com.unity.mathematics
-        version: 1.1.0
-      - name: com.unity.2d.sprite
-        version: 1.0.0
-      - name: com.unity.modules.animation
-        version: 1.0.0
-      - name: com.unity.modules.uielements
-        version: 1.0.0
-      resolvedDependencies:
-      - name: com.unity.2d.common
-        version: 4.0.3
-      - name: com.unity.2d.sprite
-        version: 1.0.0
-      - name: com.unity.modules.uielements
-        version: 1.0.0
-      - name: com.unity.modules.ui
-        version: 1.0.0
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      - name: com.unity.modules.uielementsnative
-        version: 1.0.0
-      - name: com.unity.mathematics
-        version: 1.1.0
-      - name: com.unity.modules.animation
-        version: 1.0.0
-      keywords:
-      - 2d
-      - animation
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637637510960000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 6f9c488e4d487ead34ee4d516f0a2f4a911a8b25
-        path: 
     - packageId: com.unity.2d.pixel-perfect@4.0.1
       testable: 0
       isDirectDependency: 1
@@ -246,12 +95,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/2d.git
         revision: 7d7470f4ca0ea8353d4c9640b3b6ae9d1ebd9c1d
         path: 
-    - packageId: com.unity.2d.psdimporter@4.1.0
+    - packageId: com.unity.2d.psdimporter@4.1.1
       testable: 0
       isDirectDependency: 1
-      version: 4.1.0
+      version: 4.1.1
       source: 1
-      resolvedPath: D:\GameJams\GitHub\Pocketbook_Pilferer\Pocketbook_Pilferer\Pocketbook_Pilferer\Library\PackageCache\com.unity.2d.psdimporter@4.1.0
+      resolvedPath: D:\GameJams\GitHub\Pocketbook_Pilferer\Pocketbook_Pilferer\Pocketbook_Pilferer\Library\PackageCache\com.unity.2d.psdimporter@4.1.1
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -323,7 +172,7 @@ m_PackageAssets:
       - name: com.unity.2d.common
         version: 4.0.3
       - name: com.unity.2d.animation
-        version: 5.0.6
+        version: 5.0.8
       - name: com.unity.2d.sprite
         version: 1.0.0
       resolvedDependencies:
@@ -342,7 +191,7 @@ m_PackageAssets:
       - name: com.unity.modules.uielementsnative
         version: 1.0.0
       - name: com.unity.2d.animation
-        version: 5.0.7
+        version: 5.0.8
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.modules.animation
@@ -363,13 +212,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637594727750000000
+      datePublishedTicks: 637684996970000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 9e7fd5cbe078d004f1e87ecdf3b57436664a690a
+        revision: f2df77302616ee97ac0bda980859324394e44df3
         path: 
     - packageId: com.unity.2d.sprite@1.0.0
       testable: 0
@@ -422,12 +271,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.2d.spriteshape@5.1.4
+    - packageId: com.unity.2d.spriteshape@5.1.5
       testable: 0
       isDirectDependency: 1
-      version: 5.1.4
+      version: 5.1.5
       source: 1
-      resolvedPath: D:\GameJams\GitHub\Pocketbook_Pilferer\Pocketbook_Pilferer\Pocketbook_Pilferer\Library\PackageCache\com.unity.2d.spriteshape@5.1.4
+      resolvedPath: D:\GameJams\GitHub\Pocketbook_Pilferer\Pocketbook_Pilferer\Pocketbook_Pilferer\Library\PackageCache\com.unity.2d.spriteshape@5.1.5
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -557,13 +406,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637637511330000000
+      datePublishedTicks: 637684997050000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 6f9c488e4d487ead34ee4d516f0a2f4a911a8b25
+        revision: f2df77302616ee97ac0bda980859324394e44df3
         path: 
     - packageId: com.unity.2d.tilemap@1.0.0
       testable: 0
@@ -3436,6 +3285,157 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
         revision: 6f9c488e4d487ead34ee4d516f0a2f4a911a8b25
+        path: 
+    - packageId: com.unity.2d.animation@5.0.8
+      testable: 0
+      isDirectDependency: 1
+      version: 5.0.8
+      source: 1
+      resolvedPath: D:\GameJams\GitHub\Pocketbook_Pilferer\Pocketbook_Pilferer\Pocketbook_Pilferer\Library\PackageCache\com.unity.2d.animation@5.0.8
+      assetPath: Packages/com.unity.2d.animation
+      name: com.unity.2d.animation
+      displayName: 2D Animation
+      author:
+        name: 
+        email: 
+        url: 
+      category: 2D
+      type: 
+      description: 2D Animation provides all the necessary tooling and runtime components
+        for skeletal animation using Sprites.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.15-preview.1
+        - 1.0.15-preview.2
+        - 1.0.15-preview.3
+        - 1.0.15-preview.4
+        - 1.0.15-preview.5
+        - 1.0.16-preview
+        - 1.0.16-preview.1
+        - 1.0.16-preview.2
+        - 2.0.0-preview.1
+        - 2.0.0-preview.2
+        - 2.0.0-preview.3
+        - 2.1.0-preview.1
+        - 2.1.0-preview.2
+        - 2.1.0-preview.4
+        - 2.1.0-preview.5
+        - 2.1.0-preview.7
+        - 2.2.0-preview.1
+        - 2.2.0-preview.4
+        - 2.2.0-preview.5
+        - 2.2.1-preview.1
+        - 2.2.1-preview.2
+        - 3.0.2
+        - 3.0.3
+        - 3.0.4
+        - 3.0.5
+        - 3.0.6
+        - 3.0.8
+        - 3.1.0
+        - 3.1.1
+        - 3.2.1
+        - 3.2.2
+        - 3.2.3
+        - 3.2.4
+        - 3.2.5
+        - 3.2.6
+        - 3.2.9
+        - 3.2.10
+        - 3.2.11
+        - 3.2.13
+        - 4.0.0
+        - 4.0.1
+        - 4.1.0
+        - 4.1.1
+        - 4.2.1
+        - 4.2.2
+        - 4.2.3
+        - 4.2.4
+        - 4.2.5
+        - 4.2.6
+        - 4.2.8
+        - 5.0.0
+        - 5.0.1
+        - 5.0.2
+        - 5.0.3
+        - 5.0.4
+        - 5.0.5
+        - 5.0.6
+        - 5.0.7
+        - 5.0.8
+        - 5.0.9
+        - 6.0.0-pre.1
+        - 6.0.0-pre.2
+        - 6.0.1
+        - 6.0.3
+        - 6.0.4
+        - 6.0.5
+        - 6.0.7
+        - 7.0.0-pre.2
+        - 7.0.0-pre.3
+        - 7.0.0
+        - 7.0.1
+        compatible:
+        - 5.0.6
+        - 5.0.7
+        - 5.0.8
+        - 5.0.9
+        verified: 5.0.9
+      dependencies:
+      - name: com.unity.2d.common
+        version: 4.0.3
+      - name: com.unity.mathematics
+        version: 1.1.0
+      - name: com.unity.2d.sprite
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.2d.common
+        version: 4.0.3
+      - name: com.unity.2d.sprite
+        version: 1.0.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      - name: com.unity.mathematics
+        version: 1.1.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      keywords:
+      - 2d
+      - animation
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637684996900000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/2d.git
+        revision: f2df77302616ee97ac0bda980859324394e44df3
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
