@@ -51,8 +51,8 @@ public class Movement : MonoBehaviour
             isMoving = false;
         }
         
-         movement.x = Input.GetAxis("Horizontal");
-         movement.y = Input.GetAxis("Vertical");
+         movement.x = Input.GetAxisRaw("Horizontal");
+         movement.y = Input.GetAxisRaw("Vertical");
 
         if ((movement.x > 0 || movement.y > 0) || (movement.x > 0 && movement.y > 0))
         {
