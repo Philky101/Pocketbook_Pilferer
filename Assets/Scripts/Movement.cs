@@ -54,6 +54,8 @@ public class Movement : MonoBehaviour
          movement.x = Input.GetAxisRaw("Horizontal");
          movement.y = Input.GetAxisRaw("Vertical");
 
+
+
         if ((movement.x > 0 || movement.y > 0) || (movement.x > 0 && movement.y > 0))
         {
             playerNoise.isPlayerMoving(isMoving, isWalking, isSprinting);
